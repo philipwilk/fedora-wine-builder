@@ -1,0 +1,4 @@
+Literally just builds the wine source that's in the same folder.
+Then you can get wine build by doing "docker run -v /location:/exports imagename".
+Uses the freshest fedora images and packages.
+Image should total 2-3GB when built.
